@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Package Track" max_length="40" name="x_724203_package_t_package_track" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Track code" max_length="40" name="track_code" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="track_code" label="Track code" language="en" table="x_724203_package_t_package_track">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>track_code</element>
+            <help/>
+            <hint/>
+            <label>Track code</label>
+            <language>en</language>
+            <name>x_724203_package_t_package_track</name>
+            <plural>Track codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-31 14:09:39</sys_created_on>
+            <sys_id>c5371d1f1b21111073259758b04bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Track code</sys_name>
+            <sys_package display_value="Package Track" source="x_724203_package_t">a256915b1b21111073259758b04bcbb3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Package Track">a256915b1b21111073259758b04bcbb3</sys_scope>
+            <sys_update_name>sys_documentation_x_724203_package_t_package_track_track_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-31 14:09:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
